@@ -20,5 +20,5 @@ The code must meet JCC standards and be detailed documented.
 - Build and run project with IDE or use this command:
 ```cmd
   mvn clean install
-  java -cp target/Lab2-1.0-SNAPSHOT.jar org.example.App
+  java -cp target/Lab4-1.0-SNAPSHOT.jar org.example.App
 ```
